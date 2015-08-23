@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grey">#808080</color>
+    <color name="grey_bg">#EBEBEB</color>
+    <color name="grey_deep">#333333</color>
+    <color name="gray">#808080</color>
+    <color name="divider">#BEBEBE</color>
+    <color name="form_divider">#D0D0D0</color>
+    <color name="transprent">#00000000</color>
+    <color name="dodqerblue">#2E9EF4</color>
+    <color name="touchblue">#2894FF</color>
+    <color name="textblue">#005AB6</color>
+    <color name="steelblue">#0066CC</color>
+    <color name="transparent">#00000000</color>
+</resources>
